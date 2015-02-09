@@ -2,7 +2,7 @@
 
 # Premise
 
-Today’s Corporation, coupled with underlying banking infrastructure is incredibly outdated based on an ancient legal system that only takes and an aging bank wire infrastructure. All corporate governance and process are only executed (or violated) at will of each member, recognized by legal system via hundreds and thousands pages of natural language document,  and when distorted or should dispute arise, only enforceable, hopefully, post fact thru litigation - a $500b+ overhead cost per year.
+Today’s Corporation, coupled with underlying banking infrastructure is incredibly outdated based on an ancient legal system that only takes dumb legal document and an aging bank wire infrastructure. All corporate governance and process are only executed (or violated) at will of each member, recognized by legal system via hundreds and thousands pages of natural language document,  and when distorted or should dispute arise, only enforceable, hopefully, post fact thru litigation - a $500b+ overhead cost per year.
 
 Moreover, companies settles with each other through ACH and Wire that takes anywhere from 24hr to 3-5 days for international and cost anywhere from $5 to $50 per transaction. That is hardly acceptable or even imaginable in the world of bits.
 
