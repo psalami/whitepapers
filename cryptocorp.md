@@ -23,9 +23,13 @@ What exactly need to be achieved as a for-profit corporation, or more generally,
 4. **A potentially tiered membership ruleset**, that governs appointing and addition/removal of members - shareholders, founders, executives, employees, etc., who each bear different level of responsibility, liability, risk, control and sharing.
 5. **A set of rule that governs acquiring, managing and selling of its assets**, which could include:
 * Financial Capital
+
 * Reputation / Branding
+
 * Intellectual Property, e.g. software code
+
 * Physical Assets, e.g. lands
+
 * Financial Contractual Rights (e.g. account receivable, ownership stake)
 
 6. A common set of governance rules that** audits its member’s actions **and** allow for replacement/appointment of individuals **to the roles in its membership structure
