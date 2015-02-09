@@ -36,6 +36,8 @@ What exactly need to be achieved as a for-profit corporation, or more generally,
 
 7. A agreed upon mechanism to **distribute and redistribute capital, profits and dividends** upon trigger events
 
+### Summary
+
 To summarize, based on contractarian theory a corporation can be conceived as a "**nexus of contracts**" - both social and private, that governs:
 
 1. legal status, responsibility and liability between corporation and the law
