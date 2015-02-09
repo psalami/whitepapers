@@ -20,18 +20,14 @@ What exactly need to be achieved as a for-profit corporation, or more generally,
 
 3. **An efficient mechanism to reach consensus and act accordingly**. Whenever an entity contains more than one single entity, there need to be a way such that the group would act in a consistent state. The consensus, however, does not mean in any way that a unilateral agreement, not even a majority-based agreement, need to be reached on each single decision - in fact that is extremely rarely the state, but instead a set of rules that where the members would abide by such that conflicts can be efficiently resolved and the entity would move forward. Without such set of rules (usually involving  hierarchy of decision power and scope of responsibilities), one could imagine, each action would require at least O(N^2) level of coordination efforts even for a single round of negotiation.
 
-4. **A potentially tiered membership ruleset, that governs appointing and addition/removal of members **- shareholders, founders, executives, employees, etc., who each bear different level of responsibility, liability, risk, control and sharing.
+4. **A potentially tiered membership ruleset, that governs appointing and addition/removal of members ** - shareholders, founders, executives, employees, etc., who each bear different level of responsibility, liability, risk, control and sharing.
 
 5. ** A set of rule that governs acquiring, managing and selling** of its assets, which could include:
 
 * Financial Capital
-
 * Reputation / Branding
-
 * Intellectual Property, e.g. software code
-
 * Physical Assets, e.g. lands
-
 * Financial Contractual Rights (e.g. account receivable, ownership stake)
 
 6. A common set of governance rules that** audits its member’s actions **and** allow for replacement/appointment of individuals **to the roles in its membership structure
